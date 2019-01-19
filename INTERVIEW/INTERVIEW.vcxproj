@@ -115,7 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1_排序算法.cpp" />
+    <ClCompile Include="2二分查找.cpp" />
+    <ClCompile Include="3_链表.cpp" />
     <ClCompile Include="7根据前序和中序重建树.cpp" />
+    <ClCompile Include="8二叉树下一节点.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
